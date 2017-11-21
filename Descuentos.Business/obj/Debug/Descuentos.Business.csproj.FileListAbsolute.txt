@@ -1,0 +1,6 @@
+c:\users\grodriguez\documents\visual studio 2017\Projects\Descuentos\Descuentos.Business\bin\Debug\Descuentos.Business.dll
+c:\users\grodriguez\documents\visual studio 2017\Projects\Descuentos\Descuentos.Business\bin\Debug\Descuentos.Business.pdb
+c:\users\grodriguez\documents\visual studio 2017\Projects\Descuentos\Descuentos.Business\obj\Debug\Descuentos.Business.csprojResolveAssemblyReference.cache
+c:\users\grodriguez\documents\visual studio 2017\Projects\Descuentos\Descuentos.Business\obj\Debug\Descuentos.Business.csproj.CoreCompileInputs.cache
+c:\users\grodriguez\documents\visual studio 2017\Projects\Descuentos\Descuentos.Business\obj\Debug\Descuentos.Business.dll
+c:\users\grodriguez\documents\visual studio 2017\Projects\Descuentos\Descuentos.Business\obj\Debug\Descuentos.Business.pdb

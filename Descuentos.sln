@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Descuentos.Business", "Descuentos.Business\Descuentos.Business.csproj", "{BDC27B76-F319-4279-9DC8-E812873E04E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Descuentos.Wpf", "Descuentos.Wpf\Descuentos.Wpf.csproj", "{5F5B99F0-678B-4EC1-AD21-7AE7583E651D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDC27B76-F319-4279-9DC8-E812873E04E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC27B76-F319-4279-9DC8-E812873E04E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC27B76-F319-4279-9DC8-E812873E04E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC27B76-F319-4279-9DC8-E812873E04E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F5B99F0-678B-4EC1-AD21-7AE7583E651D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F5B99F0-678B-4EC1-AD21-7AE7583E651D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F5B99F0-678B-4EC1-AD21-7AE7583E651D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F5B99F0-678B-4EC1-AD21-7AE7583E651D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33EE6311-8E47-4F9C-8E34-6C76260E6D58}
+	EndGlobalSection
+EndGlobal

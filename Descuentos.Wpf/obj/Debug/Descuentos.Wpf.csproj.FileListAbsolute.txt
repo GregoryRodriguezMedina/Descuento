@@ -1,0 +1,17 @@
+c:\users\grodriguez\documents\visual studio 2017\Projects\Descuentos\Descuentos.Wpf\bin\Debug\Descuentos.Wpf.exe
+c:\users\grodriguez\documents\visual studio 2017\Projects\Descuentos\Descuentos.Wpf\bin\Debug\Descuentos.Wpf.pdb
+c:\users\grodriguez\documents\visual studio 2017\Projects\Descuentos\Descuentos.Wpf\obj\Debug\Descuentos.Wpf.csprojResolveAssemblyReference.cache
+c:\users\grodriguez\documents\visual studio 2017\Projects\Descuentos\Descuentos.Wpf\obj\Debug\MainWindow.g.cs
+c:\users\grodriguez\documents\visual studio 2017\Projects\Descuentos\Descuentos.Wpf\obj\Debug\App.g.cs
+c:\users\grodriguez\documents\visual studio 2017\Projects\Descuentos\Descuentos.Wpf\obj\Debug\Descuentos.Wpf_MarkupCompile.cache
+c:\users\grodriguez\documents\visual studio 2017\Projects\Descuentos\Descuentos.Wpf\obj\Debug\Descuentos.Wpf_MarkupCompile.lref
+c:\users\grodriguez\documents\visual studio 2017\Projects\Descuentos\Descuentos.Wpf\obj\Debug\MainWindow.baml
+c:\users\grodriguez\documents\visual studio 2017\Projects\Descuentos\Descuentos.Wpf\obj\Debug\Descuentos.Wpf.g.resources
+c:\users\grodriguez\documents\visual studio 2017\Projects\Descuentos\Descuentos.Wpf\obj\Debug\Descuentos.Wpf.Properties.Resources.resources
+c:\users\grodriguez\documents\visual studio 2017\Projects\Descuentos\Descuentos.Wpf\obj\Debug\Descuentos.Wpf.csproj.GenerateResource.Cache
+c:\users\grodriguez\documents\visual studio 2017\Projects\Descuentos\Descuentos.Wpf\obj\Debug\Descuentos.Wpf.csproj.CoreCompileInputs.cache
+c:\users\grodriguez\documents\visual studio 2017\Projects\Descuentos\Descuentos.Wpf\obj\Debug\Descuentos.Wpf.exe
+c:\users\grodriguez\documents\visual studio 2017\Projects\Descuentos\Descuentos.Wpf\obj\Debug\Descuentos.Wpf.pdb
+c:\users\grodriguez\documents\visual studio 2017\Projects\Descuentos\Descuentos.Wpf\bin\Debug\Descuentos.Business.dll
+c:\users\grodriguez\documents\visual studio 2017\Projects\Descuentos\Descuentos.Wpf\bin\Debug\Descuentos.Business.pdb
+c:\users\grodriguez\documents\visual studio 2017\Projects\Descuentos\Descuentos.Wpf\bin\Debug\Descuentos.Wpf.exe.config
